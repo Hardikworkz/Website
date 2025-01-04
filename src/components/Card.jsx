@@ -20,7 +20,7 @@ function Card({ width }) {
         </div>
         <h1 className="text-3xl font-medium mt-10">Anonymous heading</h1>
       </div>
-      <div className="down w-full mt-60">
+      <div className="down w-full mt-50">
         <h1 className="text-6xl font-semibold tracking-tight leading-none">Start a project</h1>
         <button 
           className="rounded-full py-2 px-5 my-2 border-[1px] border-zinc-50" 
