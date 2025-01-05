@@ -5,7 +5,7 @@ function Navbar() {
   <div className="max-w-screen-xl mx-auto justify-between  py-6 flex items-center border-b-[2px] border-b-zinc-700 ">
       <div 
       className="nleft flex items-center ">
-        <img src="\Untitled.png"
+        <img src="https://th.bing.com/th?id=OIP.tlJxXvzw7mCW5lrcnmTDkwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
          alt=""
          className="w-[100px]"/>
       <div className="links ml-20 text-white flex gap-10">
